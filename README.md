@@ -1,6 +1,6 @@
 ## 안녕하세요! <img src="assets/images/Hamster.png" alt="Hamster" width="30" />
 
-저는 프론트엔드 개발자 강채연입니다.
+프론트엔드 개발자 강채연입니다.
 
 ## Skills <img src="assets/images/Rocket.png" alt="Rocket" width="30" />
 
