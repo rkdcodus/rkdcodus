@@ -4,21 +4,16 @@
 
 ## Skills <img src="assets/images/Rocket.png" alt="Rocket" width="30" />
 
-| #                                                                                    | skill             | Proficiency                                                               |
-| ------------------------------------------------------------------------------------ | ----------------- | ------------------------------------------------------------------------- |
-| <a href="https://www.python.org/"><img src="assets/icons/Python.svg" width="25"></a> | Python            | <img src="assets/images/Beaming Face with Smiling Eyes.png" width="30" /> |
-| <a href=""><img src="assets/icons/JavaScript.svg" width="25"></a>                    | Javascript        | <img src="assets/images/Beaming Face with Smiling Eyes.png" width="30" /> |
-| <a href=""><img src="assets/icons/Typescript.png" width="25"></a>                    | Typescript        | <img src="assets/images/Face with Diagonal Mouth.png" width="30" />       |
-| <a href=""><img src="assets/icons/React.svg" width="25"></a>                         | React             | <img src="assets/images/Beaming Face with Smiling Eyes.png" width="30" /> |
-| <a href=""><img src="assets/icons/tanstack query.png" width="25"></a>                | Tanstack query    | <img src="assets/images/Face with Diagonal Mouth.png" width="30" />       |
-| <a href=""><img src="assets/icons/Django.svg" width="25"></a>                        | Django            | <img src="assets/images/Face with Diagonal Mouth.png" width="30" />       |
-| <a href=""><img src="assets/icons/NextJS.svg" width="25"></a>                        | Next.js           | <img src="assets/images/Bubbles.png" width="30" />                        |
-| <a href=""><img src="assets/icons/NodeJS.svg" width="25"></a>                        | Node.js           | <img src="assets/images/Bubbles.png" width="30" />                        |
-| <a href=""><img src="assets/icons/html5.png" width="25"></a>                         | HTML5             | <img src="assets/images/Beaming Face with Smiling Eyes.png" width="30" /> |
-| <a href=""><img src="assets/icons/CSS3.png" width="25"></a>                          | CSS3              | <img src="assets/images/Beaming Face with Smiling Eyes.png" width="30" /> |
-| <a href=""><img src="assets/icons/styled-components.png" width="25"></a>             | styled-components | <img src="assets/images/Face with Diagonal Mouth.png" width="30" />       |
-| <a href=""><img src="assets/icons/stylex.png" width="25"></a>                        | stylex            | <img src="assets/images/Face with Diagonal Mouth.png" width="30" />       |
-| <a href=""><img src="assets/icons/threeJs.png" width="25"></a>                       | three.js          | <img src="assets/images/Bubbles.png" width="30" />                        |
+| #                                                                                    | skill          | Proficiency                                                               | #                                                                        | skill             | Proficiency                                                               |
+| ------------------------------------------------------------------------------------ | -------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------- | ------------------------------------------------------------------------- |
+| <a href="https://www.python.org/"><img src="assets/icons/Python.svg" width="25"></a> | Python         | <img src="assets/images/Beaming Face with Smiling Eyes.png" width="30" /> | <a href=""><img src="assets/icons/html5.png" width="25"></a>             | HTML5             | <img src="assets/images/Beaming Face with Smiling Eyes.png" width="30" /> |
+| <a href=""><img src="assets/icons/JavaScript.svg" width="25"></a>                    | Javascript     | <img src="assets/images/Beaming Face with Smiling Eyes.png" width="30" /> | <a href=""><img src="assets/icons/CSS3.png" width="25"></a>              | CSS3              | <img src="assets/images/Beaming Face with Smiling Eyes.png" width="30" /> |
+| <a href=""><img src="assets/icons/Typescript.png" width="25"></a>                    | Typescript     | <img src="assets/images/Face with Diagonal Mouth.png" width="30" />       | <a href=""><img src="assets/icons/styled-components.png" width="25"></a> | styled-components | <img src="assets/images/Face with Diagonal Mouth.png" width="30" />       |
+| <a href=""><img src="assets/icons/React.svg" width="25"></a>                         | React          | <img src="assets/images/Beaming Face with Smiling Eyes.png" width="30" /> | <a href=""><img src="assets/icons/stylex.png" width="25"></a>            | stylex            | <img src="assets/images/Face with Diagonal Mouth.png" width="30" />       |
+| <a href=""><img src="assets/icons/tanstack query.png" width="25"></a>                | Tanstack query | <img src="assets/images/Face with Diagonal Mouth.png" width="30" />       | <a href=""><img src="assets/icons/threeJs.png" width="25"></a>           | three.js          | <img src="assets/images/Bubbles.png" width="30" />                        |
+| <a href=""><img src="assets/icons/Django.svg" width="25"></a>                        | Django         | <img src="assets/images/Face with Diagonal Mouth.png" width="30" />       |
+| <a href=""><img src="assets/icons/NextJS.svg" width="25"></a>                        | Next.js        | <img src="assets/images/Bubbles.png" width="30" />                        |
+| <a href=""><img src="assets/icons/NodeJS.svg" width="25"></a>                        | Node.js        | <img src="assets/images/Bubbles.png" width="30" />                        |
 
 <br>
 
