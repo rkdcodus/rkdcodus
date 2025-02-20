@@ -1,6 +1,6 @@
 ## 안녕하세요! <img src="assets/images/Hamster.png" alt="Hamster" width="30" />
 
-웹 개발을 공부 중인 강채연입니다!
+프론트엔드 개발자 강채연입니다!
 
 <br>
 
