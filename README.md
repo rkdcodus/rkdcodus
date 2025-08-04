@@ -1,6 +1,6 @@
 ## 안녕하세요! <img src="assets/images/Hamster.png" alt="Hamster" width="30" />
 
-프론트엔드 개발자 강채연입니다!
+프론트엔드 개발자 강채연입니다!    
 강채연 포트폴리오 [자세히 보러가기](https://www.figma.com/deck/P5kjbXyoDzUpxJVH6FzIa0/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?node-id=1-553&t=VnJOIpRnoe3UZiin-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 <br>
